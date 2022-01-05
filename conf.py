@@ -22,7 +22,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Контур-ЦТ'
-copyright = '2022, Дмитрий Ларичев'
+copyright = '2022, ООО Контур-ЦТ'
 author = 'Дмитрий Ларичев'
 
 # The short X.Y version
