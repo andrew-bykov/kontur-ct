@@ -127,7 +127,7 @@ html_static_path = ['_static']
 # The default `html_sidebars` of Press theme: ['util/searchbox.html', 'util/sidetoc.html']
 #
 # html_sidebars = {'**': ['util/sidetoc.html']}
-html_logo = '_static/contur-ct.jpg'
+html_logo = '_static/kontur-ct.jpg'
 html_css_files = ["css/custom.css"]
 
 #---sphinx-themes-----
