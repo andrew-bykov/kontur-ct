@@ -92,7 +92,7 @@ todo_link_only = True
 # This then inserts a link to https://github.com/sphinx-doc/sphinx/issues/123. 
 # As you can see, the target given in the role is substituted in the base URL in the place of %s.
 
-extlinks = {'gh': ('https://github.com/andrew-bykov/contur-ct/issues/%s','# ')}
+extlinks = {'gh': ('https://github.com/andrew-bykov/kontur-ct/issues/%s','# ')}
 
 # -- Options for HTML output -------------------------------------------------
 
@@ -106,7 +106,7 @@ extlinks = {'gh': ('https://github.com/andrew-bykov/contur-ct/issues/%s','# ')}
 #
 html_theme_options = {
   "external_links": [
-      ("Github", "https://github.com/andrew-bykov/contur-ct")
+      ("Github", "https://github.com/andrew-bykov/kontur-ct")
   ]
 }
 
